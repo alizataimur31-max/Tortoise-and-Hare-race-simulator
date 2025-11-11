@@ -21,3 +21,9 @@ Who wins? Run it and find out.
 1. Make sure you have **Python 3** installed.
 2. Download this repository.
 3. Run the script.
+
+## Project Files
+
+- **Tortoise and Hare race simulator.py** – main code
+- **Sample Output** – example race output
+- **README.md** – project overview
